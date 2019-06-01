@@ -15,6 +15,7 @@ namespace listsPractice {
 			ageList.Add(51);
 			Console.WriteLine(ageList.Count);
 
+			
 			ageList.Insert(2, 25);
 			Console.WriteLine(ageList[2]);
 
